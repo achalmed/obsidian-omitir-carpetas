@@ -1,0 +1,10 @@
+{
+  "id": "omitir-carpetas",
+  "name": "Omitir carpetas",
+  "version": "0.1.0",
+  "minAppVersion": "1.6.0",
+  "description": "Obsidian no lee ni vigila node_modules, los repos anidados (submódulos) y, si se pide, los «Archivos excluidos».",
+  "author": "achalmed",
+  "authorUrl": "https://github.com/achalmed",
+  "isDesktopOnly": true
+}

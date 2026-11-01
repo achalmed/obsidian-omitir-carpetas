@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-omitir-carpetas",
+  "version": "0.1.0",
+  "description": "Complemento de Obsidian: no leer ni vigilar node_modules, repos anidados ni «Archivos excluidos».",
+  "main": "main.js",
+  "scripts": {
+    "test": "node prueba.js"
+  },
+  "keywords": ["obsidian", "obsidian-plugin"],
+  "author": "achalmed",
+  "license": "MIT"
+}
